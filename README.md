@@ -2,7 +2,7 @@
 
 **Data Scientist · Computational Neuroscientist · MSc AI & Data Science**
 
-PhD in Computational Neuroscience (University of Camerino · Charité Berlin) — now focused on applied ML, agentic AI systems, and data-driven product development. I build pipelines that go from raw data to decisions.
+PhD in Computational Neuroscience — now focused on applied ML, agentic AI systems, and data-driven product development. I build pipelines that go from raw data to decisions.
 
 ---
 
