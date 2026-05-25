@@ -44,15 +44,6 @@ PhD in Computational Neuroscience (University of Camerino · Charité Berlin) �
 
 ---
 
-## Domain Expertise
-
-- **Computational Neuroscience** — EEG time-series, RNAseq pipelines, fluorescence microscopy analysis
-- **Unsupervised Learning** — clustering (KMeans, HDBSCAN, GMM), dimensionality reduction
-- **Agentic AI** — multi-agent pipelines, orchestrator-worker patterns, local LLM deployment
-- **Statistical Modeling** — MLE, mixed-effects models, zero-inflated distributions, survival analysis
-
----
-
 ## Currently
 
 - MSc AI & Data Science — Università Cattolica + Politecnico di Milano (ALTIS)
